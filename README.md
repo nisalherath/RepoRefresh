@@ -63,7 +63,8 @@ Distributed under the MIT License. See `LICENSE` for more information. ⚖️
 
 ## 💬 **Support**
 
-Have any questions or suggestions? Feel free to open an issue or reach out to me on [Twitter](https://twitter.com/yourusername) or [LinkedIn](https://linkedin.com/in/yourusername). 📲
+Have any questions or suggestions? Feel free to open an issue or reach out to me on [Twitter](https://twitter.com/artnisal) or [LinkedIn](https://linkedin.com/in/nisal-herath). 📲
+
 
 
 # Updating Character String >
