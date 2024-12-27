@@ -55,6 +55,27 @@ Feel free to open issues and create pull requests! Contributions are always welc
 
 ---
 
+## 🛠️ **Installation Instructions**
+
+Follow these steps to get **RepoRefresh** up and running on your local machine:
+
+### 1. **Clone the Repository**
+
+First, clone the repository to your local machine:
+
+```bash
+git clone https://github.com/nisalherath/repo-refresh.git
+cd repo-refresh
+```
+
+### 2. **Install Dependencies**
+
+Ensure that you have **Python 3** installed. Then, install the required libraries by running:
+
+```bash
+pip install -r requirements.txt
+```
+
 ## 📜 **License**
 
 Distributed under the MIT License. See `LICENSE` for more information. ⚖️
